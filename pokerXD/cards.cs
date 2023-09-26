@@ -15,7 +15,7 @@ namespace pokerXD
             this.name = name;
             this.color = color;
         }
-        public string ToString()
+        public override string ToString()
         {
             return $"{ name } { color }";
         }
