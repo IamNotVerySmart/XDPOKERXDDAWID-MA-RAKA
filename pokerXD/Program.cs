@@ -29,6 +29,24 @@ if(Console.ReadLine() == "y")
 }
 if(Console.ReadLine() == "n")
 {
+    
+}
+Console.WriteLine("Than now i will show player2 cards:");
+Console.ReadLine();
+Console.WriteLine("player2 cards: ");
+foreach (cards n in player2)
+{
+    Console.WriteLine($"[{t}] " + n.ToString());
+    t++;
+}
+Console.WriteLine("========================================");
+Console.WriteLine("Do you want to draw? (y/n)");
+if (Console.ReadLine() == "y")
+{
+    deck.Draw(deck1, player2);
+}
+if (Console.ReadLine() == "n")
+{
 
 }
 

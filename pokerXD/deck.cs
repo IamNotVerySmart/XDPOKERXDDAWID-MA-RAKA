@@ -100,5 +100,9 @@
                 Console.WriteLine("Error: you dumb wrong position you wrote!");
             }
         }
+        public void winCheck(List<cards> player1, List<cards> player2)
+        {
+
+        }
     }
 }
