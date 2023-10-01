@@ -9,7 +9,7 @@
         string[] value = { "9", "10", "J", "Q", "K", "A" };
         List<cards> player1 = new List<cards>();
         List<cards> player2 = new List<cards>();
-        int drawn;
+        int drawn = 0;
 
         Random random = new Random();
 
@@ -58,14 +58,15 @@
         {
             int t = 1;
             Console.WriteLine("========================================");
-            Console.WriteLine("How much cards you want to draw?");
+            Console.WriteLine("How much cards you want to draw?(max 5 cards)");
             if(int.TryParse(Console.ReadLine(), out int tmp) && tmp <= player.Count())
             {
-                for(int i = 0; i < player.Count(); i++)
+                for(int i = 0; i < tmp; i++)
                 {
                     Console.WriteLine("========================================");
                     Console.WriteLine($"Which card you want to draw?(chose 1-{player.Count()})");
                     Console.WriteLine("Player hand: ");
+                    t = 1;
                     foreach (cards n in player)
                     {
                         Console.WriteLine($"[{t}] " + n.ToString());
@@ -74,25 +75,30 @@
                     if (int.TryParse(Console.ReadLine(), out int tmp1))
                     {
                         t = 1;
-                        int rng = random.Next(deck1.Count());
+                        
                         player.RemoveAt(tmp1 - 1);
-                        player.Add(deck1[rng]);
-                        deck1.RemoveAt(rng);
                         drawn++;
-
-                        Console.WriteLine("========================================");
-                        Console.WriteLine("Player hand: ");
-                        foreach (cards n in player)
-                        {
-                            Console.WriteLine($"[{t}] " + n.ToString());
-                            t++;
-                        }
                     }
                 }
+                for(int i = 0; i < drawn; i++)
+                {
+                    int rng = random.Next(deck1.Count());
+                    player.Add(deck1[rng]);
+                    deck1.RemoveAt(rng);
+                }
+                drawn = 0;
+                Console.WriteLine("========================================");
+                Console.WriteLine("Player hand: ");
+                foreach (cards n in player)
+                {
+                    Console.WriteLine($"[{t}] " + n.ToString());
+                    t++;
+                }
             }
-            
-
-            
+            else
+            {
+                Console.WriteLine("Error: you dumb wrong position you wrote!");
+            }
         }
     }
 }

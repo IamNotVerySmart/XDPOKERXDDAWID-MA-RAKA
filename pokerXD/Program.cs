@@ -22,15 +22,16 @@ foreach (cards n in player1)
     t++;
 }
 Console.WriteLine("========================================");
-Console.WriteLine("Do you want to draw? (yes/no)");
-if(Console.ReadLine() == "yes")
+Console.WriteLine("Do you want to draw? (y/n)");
+if(Console.ReadLine() == "y")
 {
     deck.Draw(deck1, player1);
 }
-if(Console.ReadLine() == "no")
+if(Console.ReadLine() == "n")
 {
 
 }
+
 /*Console.WriteLine("Player 1 cards: ");
 foreach (cards n in player1)
 {

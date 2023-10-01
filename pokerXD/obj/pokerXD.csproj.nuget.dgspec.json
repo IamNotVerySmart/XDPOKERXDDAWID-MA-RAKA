@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\s,bv k ,juherfnbjnha edfchnwge\\pokerXD\\pokerXD.csproj": {}
+    "C:\\Users\\MasterUwU\\Source\\Repos\\XDPOKERXDDAWID-MA-RAKA\\pokerXD\\pokerXD.csproj": {}
   },
   "projects": {
-    "G:\\s,bv k ,juherfnbjnha edfchnwge\\pokerXD\\pokerXD.csproj": {
+    "C:\\Users\\MasterUwU\\Source\\Repos\\XDPOKERXDDAWID-MA-RAKA\\pokerXD\\pokerXD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\s,bv k ,juherfnbjnha edfchnwge\\pokerXD\\pokerXD.csproj",
+        "projectUniqueName": "C:\\Users\\MasterUwU\\Source\\Repos\\XDPOKERXDDAWID-MA-RAKA\\pokerXD\\pokerXD.csproj",
         "projectName": "pokerXD",
-        "projectPath": "G:\\s,bv k ,juherfnbjnha edfchnwge\\pokerXD\\pokerXD.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "G:\\s,bv k ,juherfnbjnha edfchnwge\\pokerXD\\obj\\",
+        "projectPath": "C:\\Users\\MasterUwU\\Source\\Repos\\XDPOKERXDDAWID-MA-RAKA\\pokerXD\\pokerXD.csproj",
+        "packagesPath": "C:\\Users\\MasterUwU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MasterUwU\\Source\\Repos\\XDPOKERXDDAWID-MA-RAKA\\pokerXD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MasterUwU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

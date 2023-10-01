@@ -13,3 +13,17 @@ G:\s,bv k ,juherfnbjnha edfchnwge\pokerXD\obj\Debug\net6.0\refint\pokerXD.dll
 G:\s,bv k ,juherfnbjnha edfchnwge\pokerXD\obj\Debug\net6.0\pokerXD.pdb
 G:\s,bv k ,juherfnbjnha edfchnwge\pokerXD\obj\Debug\net6.0\pokerXD.genruntimeconfig.cache
 G:\s,bv k ,juherfnbjnha edfchnwge\pokerXD\obj\Debug\net6.0\ref\pokerXD.dll
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\bin\Debug\net6.0\pokerXD.exe
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\bin\Debug\net6.0\pokerXD.deps.json
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\bin\Debug\net6.0\pokerXD.runtimeconfig.json
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\bin\Debug\net6.0\pokerXD.dll
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\bin\Debug\net6.0\pokerXD.pdb
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.AssemblyInfoInputs.cache
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.AssemblyInfo.cs
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.csproj.CoreCompileInputs.cache
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.dll
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\refint\pokerXD.dll
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.pdb
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\pokerXD.genruntimeconfig.cache
+C:\Users\MasterUwU\Source\Repos\XDPOKERXDDAWID-MA-RAKA\pokerXD\obj\Debug\net6.0\ref\pokerXD.dll
