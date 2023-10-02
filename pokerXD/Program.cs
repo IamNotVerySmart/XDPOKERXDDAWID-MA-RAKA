@@ -29,7 +29,6 @@ if(Console.ReadLine() == "y")
 }
 if(Console.ReadLine() == "n")
 {
-    
 }
 Console.WriteLine("Than now i will show player2 cards:");
 Console.ReadLine();
@@ -47,10 +46,9 @@ if (Console.ReadLine() == "y")
 }
 if (Console.ReadLine() == "n")
 {
-
 }
-
-/*Console.WriteLine("Player 1 cards: ");
+Console.Clear();
+Console.WriteLine("Player 1 cards: ");
 foreach (cards n in player1)
 {
     Console.WriteLine(n.ToString());
@@ -59,4 +57,4 @@ Console.WriteLine("Player 2 cards: ");
 foreach (cards n in player2)
 {
     Console.WriteLine(n.ToString());
-}*/
+}
